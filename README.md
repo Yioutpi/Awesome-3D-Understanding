@@ -1,5 +1,28 @@
 # Awesome-3D-Perception
 
+## 3D With LLM 
+
+### Object-level
+- PointLLM: Empowering Large Language Models to Understand Point Clouds [[Paper]](https://arxiv.org/abs/2308.16911) [[Homepage]](https://runsenxu.com/projects/PointLLM/) [[Github]](https://github.com/OpenRobotLab/PointLLM)
+- Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following [[Paper]](https://arxiv.org/abs/2309.00615) [[Demo]](http://imagebind-llm.opengvlab.com/) [[Github]](https://github.com/ZiyuGuo99/Point-Bind_Point-LLM)
+
+### Scenes-level
+- 3D-LLM: Injecting the 3D World into Large Language Models (NeurIPS2023 Spotlight) (10TB Object data)[[Paper]](https://arxiv.org/pdf/2307.12981.pdf) [[Homepage]](https://vis-www.cs.umass.edu/3dllm/) [[Github]](https://github.com/UMass-Foundation-Model/3D-LLM)
+
+
+## 3D With CLIP
+
+- ULIP: Learning a Unified Representation of Language, Images, and Point Clouds for 3D Understanding [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Gao_ULIP_Learning_a_Unified_Representation_of_Language_Images_and_Point_CVPR_2023_paper.html) [[Github]](https://github.com/salesforce/ULIP)
+- ULIP-2: Towards Scalable Multimodal Pre-training for 3D Understanding [[Paper]](https://arxiv.org/abs/2305.08275) [[Github]](https://github.com/salesforce/ULIP)
+- OpenShape: Scaling Up 3D Shape Representation Towards Open-World Understanding [[Paper]](http://arxiv.org/abs/2305.10764) [[Github]](https://github.com/Colin97/OpenShape_code) [[Homepage]](https://colin97.github.io/OpenShape/)
+- CLIP <sup>2</sup> : Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Zeng_CLIP2_Contrastive_Language-Image-Point_Pretraining_From_Real-World_Point_Cloud_Data_CVPR_2023_paper.html) [[Github]]()
+- CLIP Goes 3D: Leveraging Prompt Tuning for Language Grounded 3D Recognition [[Paper]](https://openaccess.thecvf.com/content/ICCV2023W/OpenSUN3D/html/Hegde_CLIP_Goes_3D_Leveraging_Prompt_Tuning_for_Language_Grounded_3D_ICCVW_2023_paper.html) [[Github]](https://github.com/deeptibhegde/CLIP-goes-3D)
+- CLIP2Point: Transfer CLIP to Point Cloud Classification with Image-Depth Pre-Training [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Huang_CLIP2Point_Transfer_CLIP_to_Point_Cloud_Classification_with_Image-Depth_Pre-Training_ICCV_2023_paper.html) [[Github]](https://github.com/tyhuang0428/CLIP2Point)
+- Uni3D: Exploring Unified 3D Representation at Scale [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Huang_CLIP2Point_Transfer_CLIP_to_Point_Cloud_Classification_with_Image-Depth_Pre-Training_ICCV_2023_paper.html) [[Github]](https://github.com/baaivision/Uni3D)
+- MixCon3D: Synergizing Multi-View and Cross-Modal Contrastive Learning for Enhancing 3D Representation [[Paper]](http://arxiv.org/abs/2311.01734) [[Github]](https://github.com/baaivision/Uni3D)
+
+
+
 ## 3D-Dataset
 
 ### Object-level
@@ -16,17 +39,6 @@
 ### Scene-level
 - ScanRefer: 3D object localization in RGB-D scans using natural language
 - SQA3D: 650 Scenes, 6.8K situations,  20.4k descriptions and 33.4k diverse reasoning questions for these situations[[Paper]](https://arxiv.org/pdf/2210.07474.pdf) [[Homepage]](https://sqa3d.github.io/)
-
-
-## 3D With LLM 
-
-### Object-level
-- PointLLM: Empowering Large Language Models to Understand Point Clouds [[Paper]](https://arxiv.org/abs/2308.16911) [[Homepage]](https://runsenxu.com/projects/PointLLM/) [[Github]](https://github.com/OpenRobotLab/PointLLM)
-- Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following [[Paper]](https://arxiv.org/abs/2309.00615) [[Demo]](http://imagebind-llm.opengvlab.com/) [[Github]](https://github.com/ZiyuGuo99/Point-Bind_Point-LLM)
-
-### Scenes-level
-- 3D-LLM: Injecting the 3D World into Large Language Models (NeurIPS2023 Spotlight) [[Paper]](https://arxiv.org/pdf/2307.12981.pdf) [[Homepage]](https://vis-www.cs.umass.edu/3dllm/)
-
 
 
 ## Survey
