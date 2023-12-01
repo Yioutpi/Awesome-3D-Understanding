@@ -8,6 +8,7 @@
 
 ### Scenes-level
 - 3D-LLM: Injecting the 3D World into Large Language Models (NeurIPS2023 Spotlight) (10TB Object data)[[Paper]](https://arxiv.org/pdf/2307.12981.pdf) [[Homepage]](https://vis-www.cs.umass.edu/3dllm/) [[Github]](https://github.com/UMass-Foundation-Model/3D-LLM)
+- LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning[[Paper]](https://arxiv.org/pdf/2311.18651v1.pdf) [[Homepage]](https://ll3da.github.io/) [[Github]](https://github.com/Open3DA/LL3DA)
 
 
 ## 3D With CLIP
@@ -43,3 +44,4 @@
 
 ## Survey
 - Recent Advances in Multi-modal 3D Scene Understanding: A Comprehensive Survey and Evaluation [[Paper]](http://arxiv.org/abs/2310.15676)
+- JM3D & JM3D-LLM: Elevating 3D Representation with Joint Multi-modal Cues [[Paper]](https://arxiv.org/abs/2310.09503)
