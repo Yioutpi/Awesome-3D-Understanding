@@ -1,6 +1,6 @@
 # Awesome-3D-Perception
 
-## 3D With LLM 
+## 3D Perception
 
 ### Object-level
 - PointLLM: Empowering Large Language Models to Understand Point Clouds [[Paper]](https://arxiv.org/abs/2308.16911) [[Homepage]](https://runsenxu.com/projects/PointLLM/) [[Github]](https://github.com/OpenRobotLab/PointLLM)
@@ -10,6 +10,9 @@
 - 3D-LLM: Injecting the 3D World into Large Language Models (NeurIPS2023 Spotlight) (10TB Object data)[[Paper]](https://arxiv.org/pdf/2307.12981.pdf) [[Homepage]](https://vis-www.cs.umass.edu/3dllm/) [[Github]](https://github.com/UMass-Foundation-Model/3D-LLM)
 - LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning[[Paper]](https://arxiv.org/pdf/2311.18651v1.pdf) [[Homepage]](https://ll3da.github.io/) [[Github]](https://github.com/Open3DA/LL3DA)
 - AN EMBODIED GENERALIST AGENT IN 3D WORLD[[Paper]](http://arxiv.org/abs/2311.12871) [[Homepage]](https://embodied-generalist.github.io/) [[Github]](https://github.com/embodied-generalist/embodied-generalist)
+- M3DBench: Let’s Instruct Large Models with Multi-modal 3D Prompts[[Paper]](http://arxiv.org/abs/2312.10763) [[Homepage]](https://m3dbench.github.io/)
+- EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI [[Paper]](http://arxiv.org/abs/2312.16170) [[Homepage]](https://tai-wang.github.io/embodiedscan/)
+- ODIN: A Single Model for 2D and 3D Perception[[Paper]](http://arxiv.org/abs/2401.02416) [[Homepage]](https://odin-seg.github.io/)
 
 
 ## 3D With CLIP
@@ -37,7 +40,6 @@
 ### Scene-level
 - ScanRefer: 3D object localization in RGB-D scans using natural language
 - SQA3D: 650 Scenes, 6.8K situations,  20.4k descriptions and 33.4k diverse reasoning questions for these situations[[Paper]](https://arxiv.org/pdf/2210.07474.pdf) [[Homepage]](https://sqa3d.github.io/)
-- ODIN: A Single Model for 2D and 3D Perception[[Paper]](http://arxiv.org/abs/2401.02416) [[Homepage]](https://odin-seg.github.io/)
 
 ## Survey
 - Recent Advances in Multi-modal 3D Scene Understanding: A Comprehensive Survey and Evaluation [[Paper]](http://arxiv.org/abs/2310.15676)
