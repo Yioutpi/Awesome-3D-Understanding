@@ -1,6 +1,45 @@
-# Awesome-3D-Perception
+# Awesome-3D-Understanding
 
-## 3D Perception
+Table of Contents
+- Awesome Papers
+  - 3D Scene Understanding
+  - Open-Vocabulary Indoor Scene Understanding
+  - 3D Vision Grounding
+  - 3D Multimodal LLMs
+- Awesome Datasets
+  - Basic Indoor Scenes
+  - Basic Outdor Scenes
+  - Language-assitant Tasks
+  - Datasets of Multimodal Instruction Tuning
+
+<!-- ## 3D Perception and Understanding -->
+## Awesome Papers
+
+### Open-Vocabulary Indoor Scene Understanding
+|  Title  |   Venue  |   Date   |   Code   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/Wang-pengfei/GGSD.svg?style=social&label=Star) <br> [**Open Vocabulary 3D Scene Understanding via Geometry Guided Self-Distillation**](https://arxiv.org/pdf/2407.13362) | ECCV | 2024-07-18 | [Github](https://github.com/Wang-pengfei/GGSD) | - |
+| ![Star](https://img.shields.io/github/stars/lslrh/DMA.svg?style=social&label=Star) <br> [**Dense Multimodal Alignment for Open-Vocabulary 3D Scene Understanding**](https://arxiv.org/pdf/2407.09781) | ECCV | 2024-07-13 | [Github](https://github.com/lslrh/DMA) | - |
+
+
+### 3D Scene Understanding
+|  Title  |   Venue  |   Date   |   Code   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/dk-liang/UniSeg3D?style=social&label=Star) <br> [**A Unified Framework for 3D Scene Understanding**](https://arxiv.org/pdf/2407.03263) | Arxiv | 2024-07-03 | [Github](https://github.com/dk-liang/UniSeg3D) | - |
+| [**Self-supervised Pre-training with Masked Shape Prediction for 3D Scene Understanding**](https://arxiv.org/pdf/2407.03263) | CVPR | 2023 | - | - |
+
+
+### 3D Vision Grounding
+|  Title  |   Venue  |   Date   |   Code   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/qzp2018/MCLN?style=social&label=Star) <br> [**Multi-branch Collaborative Learning Network for 3D Visual Grounding**](https://arxiv.org/abs/2407.05363) | ECCV | 2024-07-10 | [Github](https://github.com/qzp2018/MCLN) | - |
+
+
+### 3D Multimodal LLMs
+|  Title  |   Venue  |   Date   |   Code   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/Ivan-Tang-3D/Any2Point?style=social&label=Star) <br> [**Any2Point: Empowering Any-modality Large Models for Efficient 3D Understanding**](https://arxiv.org/pdf/2404.07989) | ECCV | 2024-04-31 | [Github](https://github.com/Ivan-Tang-3D/Any2Point) | - |
+
 
 ### Object-level
 - PointLLM: Empowering Large Language Models to Understand Point Clouds [[Paper]](https://arxiv.org/abs/2308.16911) [[Homepage]](https://runsenxu.com/projects/PointLLM/) [[Github]](https://github.com/OpenRobotLab/PointLLM)
